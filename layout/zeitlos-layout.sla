@@ -560,8 +560,36 @@
   <STYLE EFFECT="0" SCOLOR="Black" ALIGN="3" TXTSHX="5" BASE="1" LINESP="14.4" TXTSHY="-5" VOR="0" TXTSTW="-0.1" DROPLIN="2" KERN="0" FSHADE="100" LINESPMode="2" BASEO="0" TXTULP="-0.1" NACH="0" SSHADE="100" SCALEV="100" DROPDIST="0" FIRST="0" INDENT="0" FONTSIZE="12" NAME="MainText" FCOLOR="Black" SCALEH="100" TXTOUT="1" DROP="0" FONT="Times New Roman Regular" TXTSTP="-0.1" TXTULW="-0.1" />
   <STYLE EFFECT="0" SCOLOR="Black" ALIGN="3" TXTSHX="5" BASE="1" LINESP="14.4" TXTSHY="-5" VOR="0" TXTSTW="-0.1" DROPLIN="2" KERN="0" FSHADE="100" LINESPMode="2" BASEO="0" TXTULP="-0.1" NACH="0" SSHADE="100" SCALEV="100" DROPDIST="0" FIRST="0" INDENT="0" FONTSIZE="14" NAME="BiggerText" FCOLOR="Black" SCALEH="100" TXTOUT="1" DROP="0" FONT="Times New Roman Regular" TXTSTP="-0.1" TXTULW="-0.1" />
   <LAYERS DRUCKEN="1" NUMMER="0" EDIT="1" NAME="Hintergrund" SICHTBAR="1" LEVEL="0" />
-  <PDF displayThumbs="0" ImagePr="0" fitWindow="0" displayBookmarks="0" BTop="14.1732" UseProfiles="0" BLeft="0" PrintP="Europe ISO Coated FOGRA27" RecalcPic="0" UseSpotColors="1" ImageP="Adobe RGB (1998)" SolidP="Adobe RGB (1998)" PicRes="300" Thumbnails="0" hideToolBar="0" CMethod="0" displayLayers="0" doMultiFile="0" UseLayers="0" Encrypt="0" BRight="14.1732" Binding="0" Articles="0" InfoString="" RGBMode="1" Grayscale="0" PresentMode="0" openAction="" displayFullscreen="0" Permissions="-4" Intent="1" Compress="1" hideMenuBar="0" Version="14" Resolution="300" Bookmarks="0" UseProfiles2="0" RotateDeg="0" Clip="0" MirrorV="0" Quality="0" PageLayout="2" UseLpi="0" PassUser="" BBottom="39.9997" Intent2="1" MirrorH="0" PassOwner="" >
+  <PDF displayThumbs="0" ImagePr="0" fitWindow="0" displayBookmarks="0" BTop="14.1732" UseProfiles="0" BLeft="0" PrintP="Europe ISO Coated FOGRA27" RecalcPic="0" UseSpotColors="1" ImageP="Adobe RGB (1998)" SolidP="Adobe RGB (1998)" PicRes="300" Thumbnails="0" hideToolBar="0" CMethod="0" displayLayers="0" doMultiFile="0" UseLayers="0" Encrypt="0" BRight="14.1732" Binding="0" Articles="0" InfoString="" RGBMode="1" Grayscale="0" PresentMode="0" openAction="" displayFullscreen="0" Permissions="-4" Intent="1" Compress="1" hideMenuBar="0" Version="14" Resolution="300" Bookmarks="0" UseProfiles2="0" RotateDeg="0" Clip="0" MirrorV="0" Quality="1" PageLayout="2" UseLpi="0" PassUser="" BBottom="39.9997" Intent2="1" MirrorH="0" PassOwner="" >
    <Fonts Name="Times New Roman Regular" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
+   <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
    <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
    <Effekte pageViewDuration="1" Di="0" pageEffectDuration="1" effectType="0" Dm="0" M="0" />
    <LPI Angle="45" Frequency="133" SpotFunction="3" Color="Black" />
